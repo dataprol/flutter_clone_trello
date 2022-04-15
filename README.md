@@ -7,7 +7,9 @@ Projeto, em Flutter, que clona uma tela do aplicativo Trello.
 Este é um projeto desenvolvido para a disciplina de Desenvolvimento de Sistemas Móveis, da universidade ULBRA - polo Torres - onde estudo o último semestre de CURSO SUPERIOR DE TECNOLOGIA EM ANALISE E DESENVOLVIMENTO DE SISTEMAS( Portaria Nro 922 - D.O.U. DE 28/12/2018 ).
 
 Aluno: Luiz Carlos Costa Rodrigues
+
 Turma: 0077-A - 31N
+
 Professor: Ramon dos Santos Lummertz
 
 
