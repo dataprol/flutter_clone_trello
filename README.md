@@ -8,6 +8,7 @@ Este é um projeto desenvolvido para a disciplina de Desenvolvimento de Sistemas
 
 Aluno: Luiz Carlos Costa Rodrigues
 Turma: 0077-A - 31N
+Professor: Ramon dos Santos Lummertz
 
 
 A few resources to get you started if this is your first Flutter project:
