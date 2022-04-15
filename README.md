@@ -1,10 +1,14 @@
-# app_clone_1
+# Clone da Tela do Trello
 
-A new Flutter project.
+Projeto, em Flutter, que clona uma tela do aplicativo Trello.
 
-## Getting Started
+## Mais sobre
 
-This project is a starting point for a Flutter application.
+Este é um projeto desenvolvido para a disciplina de Desenvolvimento de Sistemas Móveis, da universidade ULBRA - polo Torres - onde estudo o último semestre de CURSO SUPERIOR DE TECNOLOGIA EM ANALISE E DESENVOLVIMENTO DE SISTEMAS( Portaria Nro 922 - D.O.U. DE 28/12/2018 ).
+
+Aluno: Luiz Carlos Costa Rodrigues
+Turma: 0077-A - 31N
+
 
 A few resources to get you started if this is your first Flutter project:
 
